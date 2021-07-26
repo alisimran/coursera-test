@@ -1,0 +1,22 @@
+body{
+  background-color:aliceblue;
+  font-size: 130%;
+}
+.tr {
+    display: none;
+    background-color: yellow;
+    padding: 20px;
+}
+
+article:hover {
+    color: #FF0000;
+}
+
+section > p {
+    text-decoration: underline;
+    text-align: center;
+}
+
+div:hover p {
+    display: block
+}
